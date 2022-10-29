@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667082386 source:c:\users\user\desktop\Папа\gramming\c\whatever\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<locale.h>
+
